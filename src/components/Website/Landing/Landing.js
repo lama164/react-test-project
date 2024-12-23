@@ -6,7 +6,7 @@ export default function Landing() {
         <div className="d-flex align-items-center justify-content-between flex-wrap hand">
         <Container>
           <div className="col-lg-5 col-md-8 col-12 text-md-start text-center">
-            <h1 className="display-2 fw-bold">Shampoo Nice</h1>
+            <h1 className="display-2 fw-bold">Shampoo Nice!</h1>
             <h5>Another nice thing which is used by someone i don't know</h5>
 
             <Link
