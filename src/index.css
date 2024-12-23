@@ -1,0 +1,13 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* Global Rules */
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family: "Roboto", sans-serif !important;
+}
+.f-cairo {
+    font-family: "Cairo", sans-serif !important;
+}
